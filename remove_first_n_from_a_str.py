@@ -12,6 +12,5 @@ def remove(orig, num):
     print(f"The original word is {orig}.")
     print(orig[num::])
 
-
 remove("pynative", 2)
 remove("pynative", 4)
